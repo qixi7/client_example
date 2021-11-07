@@ -1,0 +1,3 @@
+[submodule "NetCode"]
+	path = NetCode
+	url = git@github.com:qixi7/client_net.git
